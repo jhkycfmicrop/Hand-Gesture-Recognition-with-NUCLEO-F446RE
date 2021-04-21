@@ -20,8 +20,10 @@
 
 //Problem n Solution
 1. ADXL337 reading calculation
->> ADXL337 will return value ranged 0 to 1023, scaled tham with scale = +- 3 as that is the max range got ADXL337\n
+>> ADXL337 will return value ranged 0 to 1023, scaled tham with scale = +- 3 as that is the max range got ADXL337
+
 >> scaledX = mapf(rawX, 0, 1023, -scale, scale);
+
 >> https://learn.sparkfun.com/tutorials/adxl337-and-adxl377-accelerometer-hookup-guide/all
 
 2. no serial monitor option in Kail
@@ -29,6 +31,7 @@
 
 3. Need to turn motion into text, a LCD Shield is needed
 >> https://randomnerdtutorials.com/25-arduino-shields/
+
 >> RM 10 +-
 
 
