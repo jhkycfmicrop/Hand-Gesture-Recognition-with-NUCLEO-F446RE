@@ -35,7 +35,7 @@
 >> RM 10 +-
 
 
-
+```
 // To try out
 // this is the code designed for Arduino C. Need to study to transform it into STM C
 int scale = 3;
@@ -70,3 +70,4 @@ void loop()
   
   delay(2000);
 }
+```
