@@ -18,6 +18,14 @@
 1. the ADXL337 macam failed, cant read any data. not sure is broken or solder problem, see dont have any short connection. if got multimeter jiu hao le
 2. re design the code, now left reading data problem 
 
+//25th APR
+1. the accelerometer seems working after testing using UNO.
+2. what i observed is that when put on the flat table the XYZ value are consistently at returning the same value.
+3. but when I shake it or put it on a higher place, the value will fluctuate then go back to the same value consistently.
+4. now need to figure out how to initialize the analog pin properly in NUCLEO-F446RE.
+5. I am thinking maybe we need to use the concept of ADC instead of just analog read in STM32. maybe UNO got auto ADC??? that is what I thought
+
+
 
 //Current problem
 1. ADXL seems failed, cant read any data from it
