@@ -35,7 +35,7 @@
 
 
 //Current problem
-1. ADXL seems failed, cant read any data from it
+1. the raw data acquired ranged from 1500 to 2500 instead of 0 - 1023.
 
 //Problem n Solution
 1. ADXL337 reading calculation
