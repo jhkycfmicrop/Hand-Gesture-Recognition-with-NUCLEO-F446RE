@@ -30,6 +30,7 @@
 1. it is working now if using ADC instead of just AnalogRead.
 2. but the value acquired is not 0 to 1023. it is 1500 to 2500, seems like the same as using UNO. Not sure what is the reason.
 3. refer code in ReadData_with_ADC.txt
+
 ![image](https://user-images.githubusercontent.com/55950816/116252847-869e6480-a7a2-11eb-81b9-3718e669c62f.png)
 
 
