@@ -16,7 +16,8 @@
 
 //22nd APR
 1. the ADXL337 macam failed, cant read any data. not sure is broken or solder problem, see dont have any short connection. if got multimeter jiu hao le
-2. re design the code, now left reading data problem 
+2. re design the code, now left reading data problem
+3. refer the code in ReadData_with_simple_AnalogRead.txt
 
 //25th APR
 1. the accelerometer seems working after testing using UNO.
@@ -28,6 +29,7 @@
 //28th APR
 1. it is working now if using ADC instead of just AnalogRead.
 2. but the value acquired is not 0 to 1023. it is 1500 to 2500, seems like the same as using UNO. Not sure what is the reason.
+3. refer code in ReadData_with_ADC.txt
 ![image](https://user-images.githubusercontent.com/55950816/116252847-869e6480-a7a2-11eb-81b9-3718e669c62f.png)
 
 
