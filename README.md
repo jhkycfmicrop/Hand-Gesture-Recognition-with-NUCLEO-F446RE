@@ -34,6 +34,14 @@
 ![image](https://user-images.githubusercontent.com/55950816/116252847-869e6480-a7a2-11eb-81b9-3718e669c62f.png)
 
 
+//1st MAY
+1. the Nucleo-f446re is not the default supported device from edge impulse, so the only way i see is data forwarder: https://docs.edgeimpulse.com/docs/cli-data-forwarder#example-arduino
+2. there are only Arduino, Zephr, MBED os example to relay the device to edge impulse. Need to translate Arduino C code to nucleo supported code. 
+3. With that, the way that nucleo read Accelerometer value need to be tuned. 
+4. havent tried that code yet. will try that tomorrow.
+
+
+
 //Current problem
 1. the raw data acquired ranged from 1500 to 2500 instead of 0 - 1023.
 
