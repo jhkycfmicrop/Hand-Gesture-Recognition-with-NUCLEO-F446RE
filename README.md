@@ -41,6 +41,13 @@
 4. havent tried that code yet. will try that tomorrow.
 
 
+//2nd MAY
+1. I think the main thing we need to focus now is figure out where should we run this thing to get the board to connect to EI
+2. kinda frustrated as the documentation is kinda cacat abt this
+
+![image](https://user-images.githubusercontent.com/55950816/116813202-3f8ae780-ab85-11eb-9223-c243855e6c22.png)
+
+
 
 //Current problem
 1. the raw data acquired ranged from 1500 to 2500 instead of 0 - 1023.
