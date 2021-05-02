@@ -44,6 +44,9 @@
 //2nd MAY
 1. I think the main thing we need to focus now is figure out where should we run this thing to get the board to connect to EI
 2. kinda frustrated as the documentation is kinda cacat abt this
+3. was thinking maybe we need a virtual machine to run this, then i go take a look the section "Edge Impulse for Linux", that simply to use Edge impulse on UNIX.
+4. then take a look the document to connect EI supported devices to EI, they prepared the respective EI firmware for the development boards, once the board uploaded with the firmware, they can launch a command prompt that controlling the boards and run those commands!!! 
+5. probably need to contact senior to ask how they connect to EI
 
 ![image](https://user-images.githubusercontent.com/55950816/116813202-3f8ae780-ab85-11eb-9223-c243855e6c22.png)
 
