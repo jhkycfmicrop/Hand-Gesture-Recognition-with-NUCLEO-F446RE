@@ -51,6 +51,15 @@
 ![image](https://user-images.githubusercontent.com/55950816/116813202-3f8ae780-ab85-11eb-9223-c243855e6c22.png)
 
 
+//3rd MAY
+1. finally able to connect to EI with the nucleo board
+
+![image](https://user-images.githubusercontent.com/55950816/116877066-04091f80-ac50-11eb-97e7-cce6d0f88ab7.png)
+
+2. proceed to sample data
+
+
+
 
 //Current problem
 1. the raw data acquired ranged from 1500 to 2500 instead of 0 - 1023.
